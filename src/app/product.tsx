@@ -3,9 +3,6 @@ export default function Product(){
     return(
         <div className="ourproducts">
             <div className="container">
-                <div className="op-title">
-                    <h2>Our Products</h2>
-                </div>
                 <div className="op-list">
 
                         <div className="ot-boxes">

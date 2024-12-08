@@ -9,7 +9,11 @@ export default function Home() {
     <div className="mainwrapper">
       <div className="herosection"><Hero /></div>
       <div className="subhero"><SubHero /> </div>
-      <div className="products"><Product /> </div>
+      <div className="products">
+      <div className="op-title">
+                    <h2>Our Products</h2>
+                </div>
+        <Product /> </div>
       <div className="CarouselSizeBox"><CarouselSize /></div>
       <div className="funiroFuniture">
       <div className="container">
